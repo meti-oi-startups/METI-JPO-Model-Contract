@@ -14,7 +14,8 @@
 
 〇応募方法  
 [提案フォルダ](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/tree/main/suggestions)に直接ファイルをアップロードしpull requestしてください｡  
-[応募マニュアル](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/blob/main/MANUAL.md)を参照し応募ししてください｡  
+※ファイル名はご自身のアカウント名としてください｡
+詳細は[応募マニュアル](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/blob/main/MANUAL.md)を参照し応募ししてください｡  
 
 〇募集期間（予定）  
 令和3年5月17日（月曜日）～6月18日（金曜日）  
