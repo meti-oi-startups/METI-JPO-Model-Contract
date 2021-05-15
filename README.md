@@ -1,1 +1,0 @@
-# METI-Updating-Model-Contract
