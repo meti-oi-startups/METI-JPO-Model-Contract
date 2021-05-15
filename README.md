@@ -13,8 +13,8 @@
 ※具体的な案件や当事者を特定できる情報は適宜匿名加工又は削除して個社、個別情報が特定・推測されないような形での投稿をお願いします。本リポジトリの[運用方針](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/blob/main/OPERATION_POLICY.md)を事前にご確認ください｡
 
 〇募集方法  
-[応募マニュアル](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/blob/main/MANUAL.md)を参照し応募ししてください｡
-[提案フォルダ](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/tree/main/suggestions)
+[提案フォルダ](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/tree/main/suggestions)に直接ファイルをアップロードしpull requestしてください｡
+[応募マニュアル](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/blob/main/MANUAL.md)を参照し応募ししてください｡  
 
 〇募集期間（予定）  
 令和3年5月17日（月曜日）～6月18日（金曜日）  
