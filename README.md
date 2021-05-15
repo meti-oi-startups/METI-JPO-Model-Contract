@@ -15,7 +15,7 @@
 〇募集マニュアル  
 作成中
 アカウント名をファイル名とする
-フォルダに入れる
+フォルダに入れる[提案フォルダ](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/tree/main/suggestions)
 
 〇募集期間（予定）  
 令和3年5月17日（月曜日）～6月18日（金曜日）  
