@@ -18,5 +18,8 @@
 
 #### 6.  リポジトリ画面の[ Pull requests ]にカウントされ､Commit待ちとなります｡  
 ![image](https://user-images.githubusercontent.com/84115514/118371419-88ac5400-b5e7-11eb-94cf-c969650ab37c.png)  
-#### [ Pull requests ]クリック後  
+#### [ Pull requests ]をクリックすると下図のようになり､pull requestが申請された状態であることが確認できます｡  
 ![image](https://user-images.githubusercontent.com/84115514/118371424-93ff7f80-b5e7-11eb-8d2d-12c23ba98f04.png)  
+
+#### 7. Commitされると以下のように[ suggestions ]フォルダに保存されます｡
+![image](https://user-images.githubusercontent.com/84115514/118395278-5ef53a80-b684-11eb-8cf2-357e1bbe8411.png)
