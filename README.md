@@ -2,22 +2,22 @@
 
 ## 募集概要
 
-### 〇応募いただきたい方
+### 応募いただきたい方
 特に、研究開発型スタートアップ・事業会社の知財・法務担当者の方。スタートアップ関係者（弁護士、ベンチャーキャピタルなど）の方。モデル契約書を実際に使われている方、興味を持たれている方。
 
-### 〇募集内容
+### 募集内容
 [モデル契約書（新素材編、AI編）](https://www.jpo.go.jp/support/general/open-innovation-portal/index.html)条文の修正内容とその背景
 
 ※交渉の際に論点となった条項の一部とその背景事情を投稿いただくことを想定していますが、全条項に対する御意見を排除するものではございません。
 ※応募に当たっては、GitHubへのユーザー登録が必要となります。匿名での投稿が可能です。
 ※具体的な案件や当事者を特定できる情報は適宜匿名加工又は削除して個社、個別情報が特定・推測されないような形での投稿をお願いします。本リポジトリの[運用方針](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/blob/main/OPERATION_POLICY.md)を事前にご確認ください｡
 
-### 〇応募方法
+### 応募方法
 [提案フォルダ](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/tree/main/suggestions)に直接ファイルをアップロードしpull requestしてください｡
 ※ファイル名はご自身のアカウント名としてください｡複数投稿される場合は､末尾に投稿数に応じて数字を記載してください｡
 ※詳細は[応募マニュアル](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/blob/main/MANUAL.md)を参照し応募してください｡
 
-### 〇募集期間（予定）
+### 募集期間（予定）
 令和3年5月17日（月曜日）～6月18日（金曜日）
 
 ## モデル契約書の概要
