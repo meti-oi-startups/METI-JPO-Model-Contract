@@ -1,8 +1,8 @@
 # 「研究開発型スタートアップと事業会社のオープンイノベーション促進のためのモデル契約書ver1.0」の改訂に向けた意見募集 GitHub運用方針
+
 ## １ 募集内容
 
 ・[モデル契約書（新素材編、AI編）](https://www.jpo.go.jp/support/general/open-innovation-portal/index.html)条文の修正内容とその背景
-
 
 ## ２ 注意事項
 
