@@ -10,15 +10,16 @@
 
 [モデル契約書（新素材編、AI編）](https://www.jpo.go.jp/support/general/open-innovation-portal/index.html)条文の修正内容とその背景
 
-※交渉の際に論点となった条項の一部とその背景事情を投稿いただくことを想定していますが、全条項に対する御意見を排除するものではございません。
-※応募に当たっては、GitHubへのユーザー登録が必要となります。匿名での投稿が可能です。
-※具体的な案件や当事者を特定できる情報は適宜匿名加工又は削除して個社、個別情報が特定・推測されないような形での投稿をお願いします。本リポジトリの[運用方針](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/blob/main/OPERATION_POLICY.md)を事前にご確認ください｡
+* 交渉の際に論点となった条項の一部とその背景事情を投稿いただくことを想定していますが、全条項に対する御意見を排除するものではございません。
+* 応募に当たっては、GitHubへのユーザー登録が必要となります。匿名での投稿が可能です。
+* 具体的な案件や当事者を特定できる情報は適宜匿名加工又は削除して個社、個別情報が特定・推測されないような形での投稿をお願いします。本リポジトリの[運用方針](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/blob/main/OPERATION_POLICY.md)を事前にご確認ください｡
 
 ### 応募方法
 
 [提案フォルダ](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/tree/main/suggestions)に直接ファイルをアップロードしpull requestしてください｡
-※ファイル名はご自身のアカウント名としてください｡複数投稿される場合は､末尾に投稿数に応じて数字を記載してください｡
-※詳細は[応募マニュアル](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/blob/main/MANUAL.md)を参照し応募してください｡
+
+* ファイル名はご自身のアカウント名としてください｡複数投稿される場合は､末尾に投稿数に応じて数字を記載してください｡
+* 詳細は[応募マニュアル](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/blob/main/MANUAL.md)を参照し応募してください｡
 
 ### 募集期間（予定）
 
@@ -42,4 +43,4 @@
 
 今回のモデル契約書の改訂においては、GitHubというツールを用いて、実際にモデル契約書を使用するユーザー等とコミュニケーションを行うことで、より実態に即した改善を目指すとともに、当該コミュニケーションが継続的に実施されることを期待しています。
 
-※本トライアルで頂いた御意見に関しましては、検討委員会で精査し、モデル契約書改訂の検討材料とします。
+* 本トライアルで頂いた御意見に関しましては、検討委員会で精査し、モデル契約書改訂の検討材料とします。
