@@ -33,7 +33,7 @@
 
 今回の改訂プロセスでは、モデル契約書のユーザー及び現在ユーザーではない方々とも広くコミュニケーションを行い、改善に向けたフィードバックを受けることを目的として、オープンな場で不特定多数が編集に携わることが出来るシステムの1つであるGitHubを用いた意見募集をトライアル実施します。
 
-![image](https://user-images.githubusercontent.com/84115514/118421248-bedaf800-b6fb-11eb-846f-580a8eee51f5.png)
+![モデル契約書改定プロセス](https://user-images.githubusercontent.com/84115514/118421248-bedaf800-b6fb-11eb-846f-580a8eee51f5.png)
 
 ## GitHubを用いることの意義
 
