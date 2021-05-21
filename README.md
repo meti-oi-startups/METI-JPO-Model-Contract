@@ -12,14 +12,11 @@
 
 * 交渉の際に論点となった条項の一部とその背景事情を投稿いただくことを想定していますが、全条項に対する御意見を排除するものではございません。
 * 応募に当たっては、GitHubへのユーザー登録が必要となります。匿名での投稿が可能です。
-* 具体的な案件や当事者を特定できる情報は適宜匿名加工又は削除して個社、個別情報が特定・推測されないような形での投稿をお願いします。本リポジトリの[運用方針](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/blob/main/OPERATION_POLICY.md)を事前にご確認ください｡
+* 具体的な案件や当事者を特定できる情報は適宜匿名加工又は削除して個社、個別情報が特定・推測されないような形での投稿をお願いします。本リポジトリの[運用方針](OPERATION_POLICY.md)を事前にご確認ください｡
 
 ### 応募方法
 
-[提案フォルダ](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/tree/main/suggestions)に直接ファイルをアップロードしpull requestしてください｡
-
-* ファイル名はご自身のアカウント名としてください｡複数投稿される場合は､末尾に投稿数に応じて数字を記載してください｡
-* 詳細は[応募マニュアル](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/blob/main/MANUAL.md)を参照し応募してください｡
+[プルリクエスト](https://docs.github.com/ja/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)してください｡
 
 ### 募集期間（予定）
 
