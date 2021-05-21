@@ -1,27 +1,32 @@
 # 投稿方法
 
-- [投稿方法](#投稿方法)
-  - [個別のファイルについて提案を送る場合](#個別のファイルについて提案を送る場合)
-  - [まとめて提案をする場合](#まとめて提案をする場合)
+- [個別のファイルについて提案を送る場合](#個別のファイルについて提案を送る場合)
+- [まとめて提案をする場合](#まとめて提案をする場合)
 
 ## 個別のファイルについて提案を送る場合
 
 1. 修正したい契約書を選択してください。
+
 ![image](https://user-images.githubusercontent.com/16509/118996966-40b07700-b9c3-11eb-84f0-5395dc50d2ee.png)
 
 2. 右上の鉛筆ボタンを押してください。
+
 ![image](https://user-images.githubusercontent.com/16509/118997138-62a9f980-b9c3-11eb-99d0-d49506b7679c.png)
 
 3. エディタに変わるので、そのまま修正箇をしてください。
+
 ![image](https://user-images.githubusercontent.com/16509/118997240-7c4b4100-b9c3-11eb-8800-a2d2e2ce3d31.png)
 
 4. 必要な修正をしたら、修正内容を入れて`Propose Changes` ボタンを押してください。
+
 ![image](https://user-images.githubusercontent.com/16509/118997382-971db580-b9c3-11eb-9c34-c36ac22c8063.png)
 
 5. 内容を確認し、`Create Pull Request` を押してください。
+
 ![image](https://user-images.githubusercontent.com/16509/118998536-7c980c00-b9c4-11eb-8323-21791868c775.png)
 
 6. 変更内容を再度確認し、`Create Pull Request` を押してください。
+
 ![image](https://user-images.githubusercontent.com/16509/118998067-1b703880-b9c4-11eb-8f1d-6416fb04fd9c.png)
 
 以上で完了です。
