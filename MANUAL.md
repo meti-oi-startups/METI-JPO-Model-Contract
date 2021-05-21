@@ -6,25 +6,22 @@
 
 ## 個別のファイルについて提案を送る場合
 
-1. markdown を選択
-![image](https://user-images.githubusercontent.com/16509/118996646-034be980-b9c3-11eb-93c0-ac221736a2c6.png)
-
-2. 修正したい契約書を選択
+1. 修正したい契約書を選択してください。
 ![image](https://user-images.githubusercontent.com/16509/118996966-40b07700-b9c3-11eb-84f0-5395dc50d2ee.png)
 
-3. 右上の鉛筆ボタンを押す
+2. 右上の鉛筆ボタンを押してください。
 ![image](https://user-images.githubusercontent.com/16509/118997138-62a9f980-b9c3-11eb-99d0-d49506b7679c.png)
 
-4. エディタに変わるので、そのまま修正する
+3. エディタに変わるので、そのまま修正箇をしてください。
 ![image](https://user-images.githubusercontent.com/16509/118997240-7c4b4100-b9c3-11eb-8800-a2d2e2ce3d31.png)
 
-5. 必要な修正をしたら、修正内容を入れて`Propose Changes` ボタンを押す
+4. 必要な修正をしたら、修正内容を入れて`Propose Changes` ボタンを押してください。
 ![image](https://user-images.githubusercontent.com/16509/118997382-971db580-b9c3-11eb-9c34-c36ac22c8063.png)
 
-6. 内容を確認し、`Create Pull Request` を押す
+5. 内容を確認し、`Create Pull Request` を押してください。
 ![image](https://user-images.githubusercontent.com/16509/118998536-7c980c00-b9c4-11eb-8323-21791868c775.png)
 
-7. 変更内容を再度確認し、`Create Pull Request` を押す
+6. 変更内容を再度確認し、`Create Pull Request` を押してください。
 ![image](https://user-images.githubusercontent.com/16509/118998067-1b703880-b9c4-11eb-8f1d-6416fb04fd9c.png)
 
 以上で完了です。
