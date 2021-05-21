@@ -17,7 +17,7 @@
 ![投稿完了です｡](https://user-images.githubusercontent.com/84115514/118371386-6581a480-b5e7-11eb-8bb9-31d8df39af80.png)
 
 6. リポジトリ画面の[ Pull requests ]にカウントされ､Commit待ちとなります｡
-![リポジトリ画面の[ Pull requests ]にカウントされ､Commit待ちとなります｡](https://user-images.githubusercontent.com/84115514/118371419-88ac5400-b5e7-11eb-94cf-c969650ab37c.png)
+![リポジトリ画面の[ Pull requests ]にカウントされ､Commit待ちとなります｡](https://user-images.githubusercontent.com/84115514/118371419-88ac5400-b5e7-11eb-94cf-c969650ab37c.png)<br>
 [ Pull requests ]をクリックすると下図のようになり､pull requestが申請された状態であることが確認できます｡
 ![[ Pull requests ]をクリックすると､pull requestが申請された状態であることが確認できます｡](https://user-images.githubusercontent.com/84115514/118371424-93ff7f80-b5e7-11eb-8d2d-12c23ba98f04.png)
 
