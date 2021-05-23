@@ -1,0 +1,16 @@
+name: Markdown Lint
+
+on:
+  - pull_request
+
+jobs:
+  lint:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Install markdownlint-cli
+        run: npm install -g markdownlint-cli
+
+      - name: Lint all Markdown files
+        run: markdownlint --config ./.markdownlint.yml ./**/*.md
