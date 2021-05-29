@@ -12,6 +12,14 @@ MD033:
   allowed_elements:
     - br
     - u
+    - table
+    - thead
+    - tbody
+    - th
+    - tr
+    - td
+    - p
+    - blockquote
 
 # コードブロックに言語の指定は不要とする
 MD040: false
