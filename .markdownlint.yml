@@ -20,6 +20,8 @@ MD033:
     - td
     - p
     - blockquote
+    - ul
+    - li
 
 # コードブロックに言語の指定は不要とする
 MD040: false
