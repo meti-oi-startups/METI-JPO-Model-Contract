@@ -1,5 +1,7 @@
 # 「研究開発型スタートアップと事業会社のオープンイノベーション促進のためのモデル契約書ver1.0」の改訂に向けた、GitHub（ギットハブ）を用いた意見募集
 
+[![Markdown Lint](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/actions/workflows/markdownlint.yml/badge.svg)](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/actions/workflows/markdownlint.yml)
+
 ## 募集概要
 
 ### 応募いただきたい方
@@ -26,7 +28,9 @@
 
 ### 応募方法
 
-[プルリクエスト](https://docs.github.com/ja/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)してください｡
+提案内容について、[プルリクエスト](https://docs.github.com/ja/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)してください｡
+
+[具体的な送信方法はこちら](MANUAL.md)
 
 ### 募集期間（予定）
 
