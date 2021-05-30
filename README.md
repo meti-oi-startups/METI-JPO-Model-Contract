@@ -16,7 +16,7 @@
 
 #### モデル契約書
 - [1_モデル契約書v1_0_秘密保持契約書（新素材編）_逐条解説あり.md](https://code4fukui.github.io/Markdown/?url=https://code4fukui.github.io/METI-JPO-Model-Contract/1_モデル契約書v1_0_秘密保持契約書（新素材編）_逐条解説あり.md)
-- [2_モデル契約書v1_0_技術検証（PoC）契約書（新素材編）_逐条解説あり.md](https://code4fukui.github.io/Markdown/?url=https://code4fukui.github.io/METI-JPO-Model-Contract/.md)
+- [2_モデル契約書v1_0_技術検証（PoC）契約書（新素材編）_逐条解説あり.md](https://code4fukui.github.io/Markdown/?url=https://code4fukui.github.io/METI-JPO-Model-Contract/2_モデル契約書v1_0_技術検証（PoC）契約書（新素材編）_逐条解説あり.md)
 - [3_モデル契約書v1_0_共同研究開発契約書（新素材編）_逐条解説あり.md](https://code4fukui.github.io/Markdown/?url=https://code4fukui.github.io/METI-JPO-Model-Contract/3_モデル契約書v1_0_共同研究開発契約書（新素材編）_逐条解説あり.md)
 - [4_モデル契約書v1_0_ライセンス契約書（新素材編）_逐条解説あり.md](https://code4fukui.github.io/Markdown/?url=https://code4fukui.github.io/METI-JPO-Model-Contract/4_モデル契約書v1_0_ライセンス契約書（新素材編）_逐条解説あり.md)
 - [5_モデル契約書v1_0_秘密保持契約書（AI編）_逐条解説あり.md](https://code4fukui.github.io/Markdown/?url=https://code4fukui.github.io/METI-JPO-Model-Contract/5_モデル契約書v1_0_秘密保持契約書（AI編）_逐条解説あり.md)
