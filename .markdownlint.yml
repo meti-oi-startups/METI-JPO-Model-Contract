@@ -11,7 +11,6 @@ MD029: false
 MD033:
   allowed_elements:
     - br
-    - u
     - b
     - table
     - thead
