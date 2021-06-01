@@ -4,7 +4,7 @@ body {
 }
 pre {
   float: left;
-  width: 50%;
+  width: 45vw;
   margin-right: 2em;
 }
 code {
@@ -19,4 +19,9 @@ h2 {
 }
 h3 {
   clear: both;
+}
+section > section > section > section {
+  display: inline-block;
+  vertical-align: top;
+  width: 45vw;
 }
