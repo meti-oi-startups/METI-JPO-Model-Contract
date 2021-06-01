@@ -1,3 +1,19 @@
 body {
-  background-color: gray;
+  background-color: #f8f8f8;
+  font-family: serif;
+}
+pre {
+  float: left;
+  width: 50%;
+  margin-right: 2em;
+}
+code {
+  font-family: serif;
+  font-size: 1em;
+  line-height: 1.8em;
+}
+h2 {
+  clear: both;
+  border-top: 1px solid gray;
+  padding-top: .5em;
 }
