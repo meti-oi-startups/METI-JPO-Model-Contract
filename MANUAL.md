@@ -6,31 +6,24 @@
 ## 個別のファイルについて提案を送る場合
 
 1. 修正したい契約書を選択してください。
-
 ![image](https://user-images.githubusercontent.com/16509/118996966-40b07700-b9c3-11eb-84f0-5395dc50d2ee.png)
 
 2. 右上の鉛筆ボタンを押してください。
-
 ![image](https://user-images.githubusercontent.com/16509/118997138-62a9f980-b9c3-11eb-99d0-d49506b7679c.png)
 
 3. エディタに変わるので、そのまま修正をしてください。
-
 ![image](https://user-images.githubusercontent.com/16509/118997240-7c4b4100-b9c3-11eb-8800-a2d2e2ce3d31.png)
 
 4. 必要な修正をしたら、修正内容を入れて`Propose changes` ボタンを押してください。
-
 ![image](https://user-images.githubusercontent.com/16509/118997382-971db580-b9c3-11eb-9c34-c36ac22c8063.png)
 
 5. 内容を確認し、`Create pull request` を押してください。
-
 ![image](https://user-images.githubusercontent.com/16509/118998536-7c980c00-b9c4-11eb-8323-21791868c775.png)
 
 6. 変更内容を再度確認し、`Create pull request` を押してください。
-
 ![image](https://user-images.githubusercontent.com/16509/118998067-1b703880-b9c4-11eb-8f1d-6416fb04fd9c.png)
 
 以上で完了です。
-
 ![image](https://user-images.githubusercontent.com/16509/118998141-29be5480-b9c4-11eb-980c-9d1d201bdd1a.png)  
 
 ## まとめて提案をする場合
@@ -41,7 +34,7 @@
 2. `Add file` → [ Create new file ]をクリックしてください｡
 ![[ Add file ] → [ Create new file ]をクリックしてください｡](https://user-images.githubusercontent.com/84115514/118370475-d1add980-b5e2-11eb-8ca4-4be48294e814.png)
 
-3. [ METI-JPO-Model-Contract / suggestions / ]以降にあなたのアカウント名.txt(もしくは.md)と記入し､[sampleファイル](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/tree/main/suggestions)をご参考にご意見を記載後`Propose new file` をクリックしてください｡
+3. [ METI-JPO-Model-Contract / suggestions / ]以降にあなたのアカウント名.txt(もしくは.md)と記入し、[sampleファイル](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/tree/main/suggestions)をご参考にご意見を記載後`Propose new file` をクリックしてください｡
 ![[ METI-JPO-Model-Contract / suggestions / ]以降にあなたのアカウント名.txt(もしくは.md)と記入してください。](https://user-images.githubusercontent.com/84115514/118370602-4bde5e00-b5e3-11eb-975c-f48963f89da1.png)
 ![[ Propose new file ]をクリックしてください｡](https://user-images.githubusercontent.com/84115514/118370864-b0e68380-b5e4-11eb-9fb5-c47fb3ee81b5.png)
 
