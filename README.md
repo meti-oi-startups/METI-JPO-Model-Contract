@@ -29,7 +29,7 @@
 
 ### 応募方法
 
-提案内容について、[プルリクエスト](https://docs.github.com/ja/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)してください｡
+提案内容について、[プルリクエスト](https://docs.github.com/ja/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)してください｡
 
 [具体的な送信方法はこちら](MANUAL.md)
 
