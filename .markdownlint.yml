@@ -4,9 +4,6 @@ MD013: false
 # 見出しのテキストの重複を許容する
 MD024: false
 
-# 順序付きリストのバリデーションは行わない
-#MD029: false
-
 # 一部の HTML タグを許容する
 MD033:
   allowed_elements:
