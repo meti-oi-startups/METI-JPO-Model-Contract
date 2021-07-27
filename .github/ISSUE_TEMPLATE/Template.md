@@ -1,6 +1,6 @@
 ---
-name: emplate
-about: Describe this issue template's purpose here.
+name: Issue作成用テンプレート
+about: Issueを作成するためのテンプレートです
 title: ''
 labels: ''
 assignees: ''
