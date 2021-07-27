@@ -1,7 +1,7 @@
 ---
 name: Issue作成用テンプレート
 about: Issueを作成するためのテンプレートです
-title: ''
+title: 'e.g. 秘密情報の定義について'
 labels: ''
 assignees: ''
 
