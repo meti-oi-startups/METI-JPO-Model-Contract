@@ -14,7 +14,7 @@ https://github.com/meti-oi-startups/METI-JPO-Model-Contract/issues にアクセ�
 
 ![Newissue](https://github.com/uedatakayuki/METI-JPO-Model-Contract/blob/main/images/new_issue.png)
 
-![テンプレート](https://github.com/uedatakayuki/METI-JPO-Model-Contract/blob/main/images/tutorial2.png)
+![テンプレート](https://github.com/uedatakayuki/METI-JPO-Model-Contract/blob/main/images/issue_start.png)
 
 
 ## コメントを作成
