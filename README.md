@@ -4,7 +4,7 @@
 
 ## 募集概要
 
-### 応募いただきたい方
+### ご意見をいただきたい方
 
 特に、研究開発型スタートアップ・事業会社の知財・法務担当者の方。スタートアップ関係者（弁護士、ベンチャーキャピタルなど）の方。モデル契約書を実際に使われている方、興味を持たれている方。
 
@@ -27,15 +27,15 @@
 * [7_モデル契約書v1_0_共同研究開発契約書（AI編）_逐条解説あり.md](https://code4fukui.github.io/Markdown/?url=https://meti-oi-startups.github.io/METI-JPO-Model-Contract/7_モデル契約書v1_0_共同研究開発契約書（AI編）_逐条解説あり.md)
 * [8_モデル契約書v1_0_利用契約書（AI編）_逐条解説あり.md](https://code4fukui.github.io/Markdown/?url=https://meti-oi-startups.github.io/METI-JPO-Model-Contract/8_モデル契約書v1_0_利用契約書（AI編）_逐条解説あり.md)
 
-### 応募方法
-
-提案内容について、[プルリクエスト](https://docs.github.com/ja/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)してください｡
-
-[具体的な送信方法はこちら](MANUAL.md)
-
 ### 募集期間（予定）
 
 令和3年5月17日（月曜日）～6月18日（金曜日）
+
+## コメント方法
+
+Issueの立て方、コメント方法につきましては、[こちらのページ](MANUAL_ISSUE.md)に詳しく記載をしていますので、ご参照ください。  
+**コメントを検討している論点について既にIssueが存在する場合は、そちらのIssueに追記する形でコメントをお願いいたします。**  
+他の方が立てたIssueに対しても、ぜひお気軽にコメントをいただければ幸いです。   
 
 ## モデル契約書の概要
 
