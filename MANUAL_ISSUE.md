@@ -28,6 +28,13 @@ https://github.com/meti-oi-startups/METI-JPO-Model-Contract/issues にアクセ�
 
 コメントを作成したら"Submit new issue"をクリックします。  
 
-![コメント作成](https://github.com/uedatakayuki/METI-JPO-Model-Contract/blob/main/images/submit_new_issue.png)
+![コメント提出](https://github.com/uedatakayuki/METI-JPO-Model-Contract/blob/main/images/submit_new_issue.png)
 
+
+## 提出完了
+
+コメントした内容がGitHub上に反映されます。
+
+![提出完了](https://github.com/uedatakayuki/METI-JPO-Model-Contract/blob/main/images/submitted1.png)
+![提出完了](https://github.com/uedatakayuki/METI-JPO-Model-Contract/blob/main/images/submitted2.png)
 
