@@ -1,4 +1,4 @@
-Issue作成の方法
+# Issue作成の方法
 
 ## サインイン
 GitHubにサインインします。 アカウントを持っていない場合はアカウントを作成します。
@@ -19,7 +19,7 @@ https://github.com/meti-oi-startups/METI-JPO-Model-Contract/issues にアクセ�
 
 ## コメントを作成
 テンプレートに沿って、契約書についてのコメントを作成します。  
-**提出後も内容を編集することができます。**
+**提出後も内容を編集することができます。**  
 **"Preview"タブをクリックすると提出した際の見え方を確認することができます。**
 
 ![コメント作成](https://github.com/uedatakayuki/METI-JPO-Model-Contract/blob/main/images/tutorial3.png)
