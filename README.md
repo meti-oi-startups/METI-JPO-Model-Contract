@@ -10,7 +10,8 @@
 
 ### 募集内容
 
-[モデル契約書（新素材編、AI編）](https://www.jpo.go.jp/support/general/open-innovation-portal/index.html)条文の修正内容とその背景
+①[モデル契約書（新素材編、AI編）](https://www.jpo.go.jp/support/general/open-innovation-portal/index.html)条文の修正内容とその背景
+②スタートアップが事業会社と連携するときのお困りごと、お悩みごと事例
 
 * 交渉の際に論点となった条項の一部とその背景事情を投稿いただくことを想定していますが、全条項に対する御意見を排除するものではございません。
 * 応募に当たっては、GitHubへのユーザー登録が必要となります。匿名での投稿が可能です。
