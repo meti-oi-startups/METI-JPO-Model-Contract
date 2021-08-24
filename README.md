@@ -1,4 +1,4 @@
-# 「研究開発型スタートアップと事業会社のオープンイノベーション促進のためのモデル契約書ver1.0」の改訂に向けた、GitHub（ギットハブ）を用いた意見募集
+# 「研究開発型スタートアップと事業会社のオープンイノベーション促進のためのモデル契約書ver1.0」の改訂に向けた、GitHub（ギットハブ）を用いた意見募集 2回目
 
 [![Markdown Lint](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/actions/workflows/markdownlint.yml/badge.svg)](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/actions/workflows/markdownlint.yml)
 
@@ -16,23 +16,13 @@
 * 応募に当たっては、GitHubへのユーザー登録が必要となります。匿名での投稿が可能です。
 * 具体的な案件や当事者を特定できる情報は適宜匿名加工又は削除して個社、個別情報が特定・推測されないような形での投稿をお願いします。本リポジトリの[運用方針](OPERATION_POLICY.md)を事前にご確認ください｡
 
-#### モデル契約書
-
-* [1_モデル契約書v1_0_秘密保持契約書（新素材編）_逐条解説あり.md](https://code4fukui.github.io/Markdown/?url=https://meti-oi-startups.github.io/METI-JPO-Model-Contract/1_モデル契約書v1_0_秘密保持契約書（新素材編）_逐条解説あり.md)
-* [2_モデル契約書v1_0_技術検証（PoC）契約書（新素材編）_逐条解説あり.md](https://code4fukui.github.io/Markdown/?url=https://meti-oi-startups.github.io/METI-JPO-Model-Contract/2_モデル契約書v1_0_技術検証（PoC）契約書（新素材編）_逐条解説あり.md)
-* [3_モデル契約書v1_0_共同研究開発契約書（新素材編）_逐条解説あり.md](https://code4fukui.github.io/Markdown/?url=https://meti-oi-startups.github.io/METI-JPO-Model-Contract/3_モデル契約書v1_0_共同研究開発契約書（新素材編）_逐条解説あり.md)
-* [4_モデル契約書v1_0_ライセンス契約書（新素材編）_逐条解説あり.md](https://code4fukui.github.io/Markdown/?url=https://meti-oi-startups.github.io/METI-JPO-Model-Contract/4_モデル契約書v1_0_ライセンス契約書（新素材編）_逐条解説あり.md)
-* [5_モデル契約書v1_0_秘密保持契約書（AI編）_逐条解説あり.md](https://code4fukui.github.io/Markdown/?url=https://meti-oi-startups.github.io/METI-JPO-Model-Contract/5_モデル契約書v1_0_秘密保持契約書（AI編）_逐条解説あり.md)
-* [6_モデル契約書v1_0_技術検証（PoC）契約書（AI編）_逐条解説あり.md](https://code4fukui.github.io/Markdown/?url=https://meti-oi-startups.github.io/METI-JPO-Model-Contract/6_モデル契約書v1_0_技術検証（PoC）契約書（AI編）_逐条解説あり.md)
-* [7_モデル契約書v1_0_共同研究開発契約書（AI編）_逐条解説あり.md](https://code4fukui.github.io/Markdown/?url=https://meti-oi-startups.github.io/METI-JPO-Model-Contract/7_モデル契約書v1_0_共同研究開発契約書（AI編）_逐条解説あり.md)
-* [8_モデル契約書v1_0_利用契約書（AI編）_逐条解説あり.md](https://code4fukui.github.io/Markdown/?url=https://meti-oi-startups.github.io/METI-JPO-Model-Contract/8_モデル契約書v1_0_利用契約書（AI編）_逐条解説あり.md)
-
 ### 募集期間（予定）
 
-令和3年5月17日（月曜日）～6月18日（金曜日）
+令和3年8月30日（月曜日）～10月29日（金曜日）
 
 ## コメント方法
 
+第1回の改善点を踏まえて、ご意見をより有効なものとするため、Pull requestsによる意見提出ではなく、Issuesにより議論した上で、取りまとめます。  
 Issueの立て方、コメント方法につきましては、[こちらのページ](MANUAL_ISSUE.md)に詳しく記載をしていますので、ご参照ください。  
 **コメントを検討している論点について既にIssueが存在する場合は、そちらのIssueに追記する形でコメントをお願いいたします。**  
 他の方が立てたIssueに対しても、ぜひお気軽にコメントをいただければ幸いです。  
@@ -43,9 +33,9 @@ Issueの立て方、コメント方法につきましては、[こちらのペ�
 
 今年度は、モデル契約書の更なる改善を目指し、以下のプロセスで改訂作業を実施します。
 
-今回の改訂プロセスでは、モデル契約書のユーザー及び現在ユーザーではない方々とも広くコミュニケーションを行い、改善に向けたフィードバックを受けることを目的として、オープンな場で不特定多数が編集に携わることが出来るシステムの1つであるGitHubを用いた意見募集をトライアル実施します。
+今回の改訂プロセスでは、モデル契約書のユーザー及び現在ユーザーではない方々とも広くコミュニケーションを行い、改善に向けたフィードバックを受けることを目的として、オープンな場で不特定多数が編集に携わることが出来るシステムの1つであるGitHubを用いた意見募集を実施します。
 
-![モデル契約書改定プロセス](https://user-images.githubusercontent.com/84115514/118421248-bedaf800-b6fb-11eb-846f-580a8eee51f5.png)
+![image](https://user-images.githubusercontent.com/84115514/130647698-770bd116-45f1-4c1d-85af-e9d12a4d0610.png)
 
 ## GitHubを用いることの意義
 
@@ -55,4 +45,4 @@ Issueの立て方、コメント方法につきましては、[こちらのペ�
 
 今回のモデル契約書の改訂においては、GitHubというツールを用いて、実際にモデル契約書を使用するユーザー等とコミュニケーションを行うことで、より実態に即した改善を目指すとともに、当該コミュニケーションが継続的に実施されることを期待しています。
 
-* 本トライアルで頂いた御意見に関しましては、検討委員会で精査し、モデル契約書改訂の検討材料とします。
+* 頂いた御意見に関しましては、検討委員会で精査し、モデル契約書改訂の検討材料とします。
