@@ -10,8 +10,8 @@
 
 ### 募集内容
 
-①[モデル契約書（新素材編、AI編）](https://www.jpo.go.jp/support/general/open-innovation-portal/index.html)条文の修正内容とその背景
-②スタートアップが事業会社と連携するときのお困りごと、お悩みごと事例
+①[モデル契約書（新素材編、AI編）](https://www.jpo.go.jp/support/general/open-innovation-portal/index.html)条文の修正内容とその背景  
+②スタートアップが事業会社と連携するときのお困りごと、お悩みごと事例 [Issues#39](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/issues/39)  
 
 * 交渉の際に論点となった条項の一部とその背景事情を投稿いただくことを想定していますが、全条項に対する御意見を排除するものではございません。
 * 応募に当たっては、GitHubへのユーザー登録が必要となります。匿名での投稿が可能です。
@@ -22,6 +22,10 @@
 令和3年8月30日（月曜日）～10月29日（金曜日）
 
 ## コメント方法
+
+分野ごとにコメントをお願いいたします  
+[モデル契約書（新素材編）](https://github.com/meti-oi-startups/METI-JPO-Model-Contract_new-material)  
+[モデル契約書（AI編）](https://github.com/meti-oi-startups/METI-JPO-Model-Contract_AI)  
 
 第1回の改善点を踏まえて、ご意見をより有効なものとするため、Pull requestsによる意見提出ではなく、Issuesにより議論した上で、取りまとめます。  
 Issueの立て方、コメント方法につきましては、[こちらのページ](MANUAL_ISSUE.md)に詳しく記載をしていますので、ご参照ください。  
@@ -47,3 +51,7 @@ Issueの立て方、コメント方法につきましては、[こちらのペ�
 今回のモデル契約書の改訂においては、GitHubというツールを用いて、実際にモデル契約書を使用するユーザー等とコミュニケーションを行うことで、より実態に即した改善を目指すとともに、当該コミュニケーションが継続的に実施されることを期待しています。
 
 * 頂いた御意見に関しましては、検討委員会で精査し、モデル契約書改訂の検討材料とします。
+
+## 参考情報
+
+[スタートアップと事業会社の連携](https://www.meti.go.jp/policy/tech_promotion/venture.html) 経済産業省
