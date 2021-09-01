@@ -10,7 +10,7 @@
 
 ### 募集内容
 
-①モデル契約書（新素材編、AI編）[特許庁HP](https://www.jpo.go.jp/support/general/open-innovation-portal/index.html)　条文の修正内容とその背景  
+①モデル契約書（新素材編、AI編）[特許庁HPリンク](https://www.jpo.go.jp/support/general/open-innovation-portal/index.html)　条文の修正内容とその背景  
  　分野ごとのリポジトリにてコメントをお願いいたします。  
  　　モデル契約書（新素材編）は[こちら](https://github.com/meti-oi-startups/METI-JPO-Model-Contract_new-material)をクリックし["Issues"](https://github.com/meti-oi-startups/METI-JPO-Model-Contract_new-material/issues)にてコメントをお願いいたします。  
  　　モデル契約書（AI編）は[こちら](https://github.com/meti-oi-startups/METI-JPO-Model-Contract_AI)をクリックし["Issues"](https://github.com/meti-oi-startups/METI-JPO-Model-Contract_AI/issues)にてコメントをお願いいたします。  
