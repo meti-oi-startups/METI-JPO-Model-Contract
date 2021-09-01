@@ -11,7 +11,12 @@
 ### 募集内容
 
 ①[モデル契約書（新素材編、AI編）](https://www.jpo.go.jp/support/general/open-innovation-portal/index.html)条文の修正内容とその背景  
+ 　分野ごとにこちらのリポジトリでコメントをお願いいたします。  
+ 　　モデル契約書（新素材編）は[こちら](https://github.com/meti-oi-startups/METI-JPO-Model-Contract_new-material)をクリックし"Issues"にてコメントをお願いいたします。  
+ 　　モデル契約書（AI編）は[こちら](https://github.com/meti-oi-startups/METI-JPO-Model-Contract_AI)をクリックし"Issues"にてコメントをお願いいたします。  
+  
 ②スタートアップが事業会社と連携するときのお困りごと、お悩みごと事例 [Issues#39](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/issues/39)  
+　　本リポジトリの["Issues"](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/issues)をクリックしコメントをお願いいたします。
 
 * 交渉の際に論点となった条項の一部とその背景事情を投稿いただくことを想定していますが、全条項に対する御意見を排除するものではございません。
 * 応募に当たっては、GitHubへのユーザー登録が必要となります。匿名での投稿が可能です。
@@ -23,14 +28,16 @@
 
 ## コメント方法
 
-分野ごとにコメントをお願いいたします  
-[モデル契約書（新素材編）](https://github.com/meti-oi-startups/METI-JPO-Model-Contract_new-material)  
-[モデル契約書（AI編）](https://github.com/meti-oi-startups/METI-JPO-Model-Contract_AI)  
-
 第1回の改善点を踏まえて、ご意見をより有効なものとするため、Pull requestsによる意見提出ではなく、Issuesにより議論した上で、取りまとめます。  
 Issueの立て方、コメント方法につきましては、[こちらのページ](MANUAL_ISSUE.md)に詳しく記載をしていますので、ご参照ください。  
 **コメントを検討している論点について既にIssueが存在する場合は、そちらのIssueに追記する形でコメントをお願いいたします。**  
 他の方が立てたIssueに対しても、ぜひお気軽にコメントをいただければ幸いです。  
+
+ 　募集内容①は分野ごとにコメントをお願いいたします。  
+ 　　[モデル契約書（新素材編）](https://github.com/meti-oi-startups/METI-JPO-Model-Contract_new-material)  
+ 　　[モデル契約書（AI編）](https://github.com/meti-oi-startups/METI-JPO-Model-Contract_AI)  
+
+ 　募集内容②は本リポジトリの["Issues"](https://github.com/meti-oi-startups/METI-JPO-Model-Contract_new-material/issues)にコメントをお願いいたします。  
 
 ## モデル契約書の概要
 
