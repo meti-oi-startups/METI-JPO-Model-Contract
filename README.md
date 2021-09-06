@@ -15,7 +15,7 @@
  　　モデル契約書（新素材編）は[こちら](https://github.com/meti-oi-startups/METI-JPO-Model-Contract_new-material)をクリックし["Issues"](https://github.com/meti-oi-startups/METI-JPO-Model-Contract_new-material/issues)にてコメントをお願いいたします。  
  　　モデル契約書（AI編）は[こちら](https://github.com/meti-oi-startups/METI-JPO-Model-Contract_AI)をクリックし["Issues"](https://github.com/meti-oi-startups/METI-JPO-Model-Contract_AI/issues)にてコメントをお願いいたします。  
   
-②スタートアップが事業会社と連携するときのお困りごと、お悩みごと事例。 ご参考：[Issues#39](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/issues/39)  
+②研究開発型スタートアップが事業会社と連携するときのお困りごと、お悩みごと事例。 ご参考：[Issues#39](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/issues/39)  
 　　本リポジトリの["Issues"](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/issues)をクリックしコメントをお願いいたします。
 
 * 交渉の際に論点となった条項の一部とその背景事情を投稿いただくことを想定していますが、全条項に対する御意見を排除するものではございません。
