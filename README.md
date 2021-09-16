@@ -62,4 +62,3 @@ Issueの立て方、コメント方法につきましては、[こちらのペ�
 ## 参考情報
 
 [スタートアップ企業と事業会社の連携](https://www.meti.go.jp/policy/tech_promotion/business_partnership_contracts.html) 経済産業省
-
