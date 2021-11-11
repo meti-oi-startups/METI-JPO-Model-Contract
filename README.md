@@ -1,7 +1,8 @@
-# 「研究開発型スタートアップと事業会社のオープンイノベーション促進のためのモデル契約書ver1.0」の改訂に向けた、GitHub（ギットハブ）を用いた意見募集 2回目
+# 「研究開発型スタートアップと事業会社のオープンイノベーション促進のためのモデル契約書ver1.0」の改訂に向けた、GitHub（ギットハブ）を用いた意見募集 2回目（募集期間終了）
 
 [![Markdown Lint](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/actions/workflows/markdownlint.yml/badge.svg)](https://github.com/meti-oi-startups/METI-JPO-Model-Contract/actions/workflows/markdownlint.yml)
 
+※意見募集期間は終了しましたが、当リポジトリの内容をフォークして頂き編集・活用して頂くことは引き続き可能です。
 ## 募集概要
 
 ### ご意見をいただきたい方
@@ -24,7 +25,8 @@
 
 ### 募集期間（予定）
 
-令和3年9月8日（水曜日）～10月29日（金曜日）
+令和3年9月8日（水曜日）～10月29日（金曜日）  
+※意見募集期間は終了しましたが、当リポジトリの内容をフォークして頂き編集・活用して頂くことは引き続き可能です。
 
 ## コメント方法
 
